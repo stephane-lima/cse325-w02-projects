@@ -290,7 +290,6 @@ c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Pr
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\scopedcss\bundle\MvcMovie.styles.css
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
-c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-b9sayid5wm-b9sayid5wm.gz
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\compressed\dqa1xiugtd-{0}-61n19gt1b8-61n19gt1b8.gz
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\compressed\6clnpnw2tb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\compressed\gln79jq0fq-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -365,3 +364,4 @@ c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Pr
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\MvcMovie.pdb
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\MvcMovie.genruntimeconfig.cache
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\ref\MvcMovie.dll
+c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-aa2ftxlns1-aa2ftxlns1.gz
