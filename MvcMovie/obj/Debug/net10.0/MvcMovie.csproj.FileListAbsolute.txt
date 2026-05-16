@@ -364,4 +364,4 @@ c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Pr
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\MvcMovie.pdb
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\MvcMovie.genruntimeconfig.cache
 c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\ref\MvcMovie.dll
-c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-aa2ftxlns1-aa2ftxlns1.gz
+c:\Users\user\Downloads\BYU_Pathway\CSE325 - .NET Software Development\CSE325 Projects\cse325-w02-projects\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-0hrlu4fgwk-0hrlu4fgwk.gz
