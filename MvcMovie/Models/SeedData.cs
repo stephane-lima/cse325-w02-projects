@@ -51,6 +51,38 @@ public static class SeedData
                     Genre = "Western",
                     Rating = "G",
                     Price = 3.99M
+                },
+                new Movie
+                {
+                    Title = "Black Panther",
+                    ReleaseDate = DateTime.Parse("2018-2-16"),
+                    Genre = "Action",
+                    Rating = "PG-13",
+                    Price = 15.99M
+                },
+                new Movie
+                {
+                    Title = "Shrek",
+                    ReleaseDate = DateTime.Parse("2001-5-18"),
+                    Genre = "Animation",
+                    Rating = "PG",
+                    Price = 9.99M
+                },
+                new Movie
+                {
+                    Title = "Dune",
+                    ReleaseDate = DateTime.Parse("2021-10-22"),
+                    Genre = "Science Fiction",
+                    Rating = "PG-13",
+                    Price = 17.99M
+                },
+                new Movie
+                {
+                    Title = "Dune: Part Two",
+                    ReleaseDate = DateTime.Parse("2024-3-1"),
+                    Genre = "Science Fiction",
+                    Rating = "PG-13",
+                    Price = 19.99M
                 }
             );
             context.SaveChanges();
